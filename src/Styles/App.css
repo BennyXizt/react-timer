@@ -1,0 +1,77 @@
+body {
+	background-color: black;
+}
+
+.timer {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	font-size: 2rem;
+	padding: 0 10px 0 10px;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.lap_result {
+	border: 5px solid;
+	padding: 1rem;
+	margin-top: 1rem;
+	color: #edf3fe;
+	width: 260px;
+}
+
+.lap_result-title {
+	text-align: center;
+	font-size: 2rem;
+	margin-bottom: 10px;
+}
+
+.lap_result-footer {
+	border: 1px solid;
+	margin-top: 1rem;
+	padding: 1rem;
+}
+
+.clicked {
+	background-color: red !important;
+}
+
+.btnBlue {
+	background-color: #5163c2;
+}
+
+.btnYellow {
+	background-color: #c0ff36;
+	color: #9f2895;
+}
+
+.btnPink {
+	background-color: #ff9999;
+}
+
+.wrpBlue {
+	border-color: #5163c2;
+}
+
+.wrpYellow {
+	border-color: #c0ff36;
+}
+
+.wrpPink {
+	border-color: #ff9999;
+}
+
+.txtWhite {
+	color: #edf3fe;
+}
+
+.txtPink {
+	color: #fdc39e;
+}
+
+.txtYellow {
+	color: #c0ff36;
+}
