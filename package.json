@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://bennyxizt.github.io/react-timer/",
+  "homepage": "https://{username}/{reponame}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
