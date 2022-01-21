@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://{username}/{reponame}",
+  "homepage": "https://{username}.github.io/{repository-name}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
